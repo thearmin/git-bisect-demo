@@ -12,7 +12,7 @@ With git bisect we can automatically find the commit which made the test fail.
 
 ## how to run
 - clone the project
-- checkout master (this comes with broken test)
+- checkout master
 - check git history with
 `git log --online `
 - figure out the commit which introduces a bug is *7024e4c* 
