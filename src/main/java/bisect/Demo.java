@@ -7,7 +7,6 @@ public class Demo {
     
     // calculate sum
     static int sum(int summand1, int summand2) {
-        System.out.println("summand1 = [" + summand1 + "], summand2 = [" + summand2 + "]");
         return summand1 + summand1;
     }
     
