@@ -7,7 +7,7 @@ public class Demo {
     
     // calculate sum
     static int sum(int summand1, int summand2) {
-        return summand1 + summand1;
+        return summand1 + summand2;
     }
     
 }
